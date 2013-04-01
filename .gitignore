@@ -1,0 +1,5 @@
+master_server
+worker_server
+client
+
+*.o
